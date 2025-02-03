@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**Surya-Prabha-18/Surya-Prabha-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+# 💫 About Me:
 I am Surya Prabha S, a pre-final year undergraduate student pursuing a degree in Artificial Intelligence and Data Science. I am passionate about backend development, focusing on creating efficient, scalable solutions with a unique approach. My work primarily revolves around language-independent systems, including a keyword extractor designed to accurately identify key terms from text across multiple languages. I have strong programming skills in Python, C++, and Java, and I am currently enhancing my full-stack development capabilities by learning the MERN stack. I am committed to solving real-world problems through innovative technologies, clean code, and optimized algorithms
 
 
@@ -24,7 +13,3 @@ I am Surya Prabha S, a pre-final year undergraduate student pursuing a degree in
 [![](https://visitcount.itsvg.in/api?id=surya-prabha-18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
